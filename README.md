@@ -17,3 +17,7 @@ Now, in order to predict, whether the customer would be interested in Vehicle in
 
 
 ![](/images/vp1.jpeg)
+
+***********************************************________________________________________**************************************************
+
+![](/images/vp2.jpeg)
